@@ -1,6 +1,6 @@
 # Unsupervised Multi-View Gaze Representation Learning
 
-This is the official project page of our CVPR Gaze 2022 workshop paper.
+This is the official project page of our CVPR Gaze 2022 workshop paper, winner of the best poster competition.
 
 ### Abstract
 
@@ -9,7 +9,8 @@ We present a method for unsupervised gaze representation learning from multiple 
 ### CVPR Gaze 2022 workshop materials
 
 - [x] [Paper](docs/paper.pdf)
-- [x] [Poster](docs/poster.pdf)
+- [x] [Poster](docs/poster.pdf) (Winner - Best Poster)
+- [x] [Slides](docs/slides.pdf)
 - [x] [Video](https://youtu.be/gkYyOyiAB6k) (7 min summary)
 - [x] Code - see [cvpr/README.md](cvpr/README.md)
 
